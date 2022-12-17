@@ -16,6 +16,6 @@ How my algorithm solve the problem,
 
 ## Result
 
-Runtime: **41 ms**, faster than **57.20%** of Go online submissions for Reverse Integer.
+Runtime: **41 ms**, faster than **57.20%** of C# online submissions for Reverse Integer.
 
-Memory Usage: **25.1 MB**, less than **88.94%** of Go online submissions for Reverse Integer.
+Memory Usage: **25.1 MB**, less than **88.94%** of C# online submissions for Reverse Integer.
